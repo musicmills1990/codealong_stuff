@@ -1,1 +1,2 @@
-This is another sentence for my new file
+me = "this is an inner monologue"
+also_me = "nope, sorry. this is a dialogue."
